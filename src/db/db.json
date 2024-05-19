@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "Rolando Labadie",
+    "phone": "492.293.3199 x9948",
+    "email": "Ellie_Shanahan37@gmail.com",
+    "job": "Forward Marketing Manager"
+  },
+  {
+    "name": "Wendy Davis",
+    "phone": "(476) 842-8921 x029",
+    "email": "Alena.Douglas@hotmail.com",
+    "job": "International Program Analyst"
+  },
+  {
+    "name": "Ernestine Huel",
+    "phone": "(877) 206-4018 x960",
+    "email": "Dimitri.Wunsch@yahoo.com",
+    "job": "Chief Brand Strategist"
+  },
+  {
+    "name": "Lindsey Russel-Homenick",
+    "phone": "1-683-882-6221",
+    "email": "Braeden_Stoltenberg@hotmail.com",
+    "job": "Product Web Facilitator"
+  },
+  {
+    "name": "Ida Yundt",
+    "phone": "354-782-5726 x12503",
+    "email": "Mackenzie89@hotmail.com",
+    "job": "Internal Directives Developer"
+  },
+  {
+    "name": "Oscar Ledner MD",
+    "phone": "(465) 336-6248 x97300",
+    "email": "Shirley68@hotmail.com",
+    "job": "National Brand Consultant"
+  },
+  {
+    "name": "Rachael Schumm",
+    "phone": "958.468.8611 x6398",
+    "email": "Fanny56@gmail.com",
+    "job": "District Functionality Planner"
+  }
+]
